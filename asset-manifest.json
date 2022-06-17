@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/company-workers/static/css/main.fea0bc52.css",
+    "main.js": "/company-workers/static/js/main.44d39f28.js",
+    "static/js/787.3b56cabf.chunk.js": "/company-workers/static/js/787.3b56cabf.chunk.js",
+    "static/media/workers.png": "/company-workers/static/media/workers.48e82ce27b6c9d6097d7.png",
+    "index.html": "/company-workers/index.html",
+    "main.fea0bc52.css.map": "/company-workers/static/css/main.fea0bc52.css.map",
+    "main.44d39f28.js.map": "/company-workers/static/js/main.44d39f28.js.map",
+    "787.3b56cabf.chunk.js.map": "/company-workers/static/js/787.3b56cabf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fea0bc52.css",
+    "static/js/main.44d39f28.js"
+  ]
+}
